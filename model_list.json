@@ -1,0 +1,44 @@
+{
+    "models": [
+        "Potion-Maker/Pio",
+        "Potion-Maker/Tia",
+        "bilibili-live/22",
+        "bilibili-live/33",
+        [
+            "ShizukuTalk/shizuku-48",
+            "ShizukuTalk/shizuku-pajama"
+        ],
+        [
+            "HyperdimensionNeptunia/neptune_classic",
+            "HyperdimensionNeptunia/nepnep",
+            "HyperdimensionNeptunia/neptune_santa",
+            "HyperdimensionNeptunia/nepmaid",
+            "HyperdimensionNeptunia/nepswim",
+            "HyperdimensionNeptunia/noir_classic",
+            "HyperdimensionNeptunia/noir",
+            "HyperdimensionNeptunia/noir_santa",
+            "HyperdimensionNeptunia/noireswim",
+            "HyperdimensionNeptunia/blanc_classic",
+            "HyperdimensionNeptunia/blanc_normal",
+            "HyperdimensionNeptunia/blanc_swimwear",
+            "HyperdimensionNeptunia/vert_classic",
+            "HyperdimensionNeptunia/vert_normal",
+            "HyperdimensionNeptunia/vert_swimwear",
+            "HyperdimensionNeptunia/nepgear",
+            "HyperdimensionNeptunia/nepgear_extra",
+            "HyperdimensionNeptunia/nepgearswim",
+            "HyperdimensionNeptunia/histoire",
+            "HyperdimensionNeptunia/histoirenohover"
+        ],
+        "KantaiCollection/murakumo"
+    ],
+    "messages": [
+        "Pio Sauce from Potion Maker ~",
+        "Tia Sauce from Potion Maker ~",
+        "22 Oh from Bilibili Live ~",
+        "33 from Bilibili Live said",
+        "Shizuku Talk! This is Shizuku ~",
+        "Nep! Nep! Super Dimension Game: Neptune Series",
+        "Kantai Collection / Murakumo"
+    ]
+}
